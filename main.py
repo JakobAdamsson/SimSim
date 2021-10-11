@@ -3,13 +3,6 @@ import places
 import resources
 import time
 
-
-    
-    
-
-
-
-
 if __name__ == '__main__':
     r1 = places.Road()
     r2 = places.Road()
